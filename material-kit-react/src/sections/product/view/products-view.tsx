@@ -33,9 +33,9 @@ const CATEGORY_OPTIONS = [
 const RATING_OPTIONS = ['up4Star', 'up3Star', 'up2Star', 'up1Star'];
 
 const PRICE_OPTIONS = [
-  { value: 'below', label: 'Below $25' },
-  { value: 'between', label: 'Between $25 - $75' },
-  { value: 'above', label: 'Above $75' },
+  { value: 'below', label: 'Below £25' },
+  { value: 'between', label: 'Between £25 - £75' },
+  { value: 'above', label: 'Above £75' },
 ];
 
 const COLOR_OPTIONS = [
